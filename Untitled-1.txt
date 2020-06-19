@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+<title>test</title>
+<body background="top.jpg">
+Привіт!
+</body>
